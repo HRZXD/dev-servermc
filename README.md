@@ -1,2 +1,2 @@
 # DEVSERVERMC
-เข้าไปที่tags
+Click on **tags**
